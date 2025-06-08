@@ -1,0 +1,108 @@
+{
+    "uri": "substance/pt/64175",
+    "rn": "64-17-5",
+    "name": "Ethanol",
+    "images": [
+        "<svg width=\"100\" viewBox=\"0 0 100 26\" style=\"fill-opacity:1; color-rendering:auto; color-interpolation:auto; text-rendering:auto; stroke:black; stroke-linecap:square; stroke-miterlimit:10; shape-rendering:auto; stroke-opacity:1; fill:black; stroke-dasharray:none; font-weight:normal; stroke-width:1; font-family:'Open Sans'; font-style:normal; stroke-linejoin:miter; font-size:12; stroke-dashoffset:0; image-rendering:auto;\" height=\"26\" class=\"cas-substance-image\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><svg class=\"cas-substance-single-component\"><rect y=\"0\" x=\"0\" width=\"100\" stroke=\"none\" ry=\"7\" rx=\"7\" height=\"26\" fill=\"white\" class=\"cas-substance-group\"/><svg y=\"0\" x=\"15\" width=\"70\" viewBox=\"0 0 70 26\" style=\"fill:black;\" height=\"26\" class=\"cas-substance-single-component-image\"><svg><g><g transform=\"translate(29,15)\" style=\"text-rendering:geometricPrecision; color-rendering:optimizeQuality; color-interpolation:linearRGB; stroke-linecap:butt; image-rendering:optimizeQuality;\"><line y2=\"-7.5\" y1=\"7.5\" x2=\"-25.98\" x1=\"0\" style=\"fill:none;\"/><line y2=\"-4.3112\" y1=\"7.5\" x2=\"20.457\" x1=\"0\" style=\"fill:none;\"/><path style=\"fill:none; stroke-miterlimit:5;\" d=\"M-0.433 7.25 L0 7.5 L0.433 7.25\"/></g><g transform=\"translate(29,15)\" style=\"stroke-linecap:butt; fill:rgb(230,0,0); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Open Sans'; stroke:rgb(230,0,0); color-interpolation:linearRGB; stroke-miterlimit:5;\"><path style=\"stroke:none;\" d=\"M29.9175 -7.5703 Q29.9175 -5.5078 28.8784 -4.3281 Q27.8394 -3.1484 25.9956 -3.1484 Q24.105 -3.1484 23.0737 -4.3125 Q22.0425 -5.4766 22.0425 -7.5859 Q22.0425 -9.6797 23.0737 -10.8281 Q24.105 -11.9766 25.9956 -11.9766 Q27.855 -11.9766 28.8862 -10.8047 Q29.9175 -9.6328 29.9175 -7.5703 ZM23.0894 -7.5703 Q23.0894 -5.8359 23.8316 -4.9297 Q24.5737 -4.0234 25.9956 -4.0234 Q27.4175 -4.0234 28.1441 -4.9219 Q28.8706 -5.8203 28.8706 -7.5703 Q28.8706 -9.3047 28.1441 -10.1953 Q27.4175 -11.0859 25.9956 -11.0859 Q24.5737 -11.0859 23.8316 -10.1875 Q23.0894 -9.2891 23.0894 -7.5703 Z\"/><path style=\"stroke:none;\" d=\"M37.4331 -3.2734 L36.4331 -3.2734 L36.4331 -7.3047 L31.9175 -7.3047 L31.9175 -3.2734 L30.9175 -3.2734 L30.9175 -11.8359 L31.9175 -11.8359 L31.9175 -8.1953 L36.4331 -8.1953 L36.4331 -11.8359 L37.4331 -11.8359 L37.4331 -3.2734 Z\"/></g></g></svg></svg></svg></svg>"
+    ],
+    "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+    "inchiKey": "InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+    "smile": "C(C)O",
+    "canonicalSmile": "OCC",
+    "molecularFormula": "C<sub>2</sub>H<sub>6</sub>O",
+    "molecularMass": "46.07",
+    "experimentalProperties": [
+        {
+            "name": "Boiling Point",
+            "property": "78.5 \u00b0C",
+            "sourceNumber": 1
+        },
+        {
+            "name": "Melting Point",
+            "property": "-114.1 \u00b0C",
+            "sourceNumber": 1
+        },
+        {
+            "name": "Density",
+            "property": "0.789 g/cm\u00b3 @ Temp: 20 \u00b0C",
+            "sourceNumber": 1
+        }
+    ],
+    "propertyCitations": [
+        {
+            "docUri": "",
+            "sourceNumber": 1,
+            "source": "Hazardous Substances Data Bank data were obtained from the National Library of Medicine (US)"
+        }
+    ],
+    "synonyms": [
+        "Ethanol",
+        "Ethyl alcohol",
+        "Alcohol",
+        "Algrain",
+        "Anhydrol",
+        "Ethyl hydrate",
+        "Ethyl hydroxide",
+        "Jaysol",
+        "Jaysol S",
+        "Methylcarbinol",
+        "Molasses alcohol",
+        "Potato alcohol",
+        "Tecsol",
+        "Alcohol anhydrous",
+        "Denatured ethanol",
+        "Tecsol C",
+        "Alcare Hand Degermer",
+        "SY Fresh M",
+        "Ethicap",
+        "Synasol",
+        "Desinfektol EL",
+        "Duplicating Fluid 100C.NPA",
+        "100C.NPA",
+        "Anhydrol PM 4085",
+        "SDA 3A",
+        "Esumiru WK 88",
+        "Hinetoless",
+        "IMS 99",
+        "Lux",
+        "AHD 2000",
+        "Sekundasprit",
+        "NSC 85228",
+        "Infinity Pure",
+        "CDA 19",
+        "CDA 19-200",
+        "Sterillium Rub",
+        "Germ-X",
+        "Vinic alcohol",
+        "SD 3A",
+        "Denatured alcohol",
+        "Neocol CQ",
+        "Black Warrant",
+        "Bioethanol",
+        "Surfin 96",
+        "SDA 23A",
+        "Amanol SD",
+        "Alpet E",
+        "Alpet NV",
+        "PM 6193-200",
+        "ICON Dry",
+        "Adechiru 750",
+        "Traceable 95",
+        "Shunkol B",
+        "Prethanol A",
+        "LEK 01",
+        "95PGF2",
+        "ProtectorPlus gel",
+        "THS gel",
+        "SD 29 (alcohol)",
+        "MeSH ID: D000431",
+        "Drysol NM",
+        "Traceable 99"
+    ],
+    "replacedRns": [
+        "8000-16-6",
+        "8024-45-1",
+        "121182-78-3"
+    ],
+    "hasMolfile": true
+}

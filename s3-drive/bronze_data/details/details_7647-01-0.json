@@ -1,0 +1,65 @@
+{
+    "uri": "substance/pt/7647010",
+    "rn": "7647-01-0",
+    "name": "Hydrochloric acid",
+    "images": [
+        "<svg width=\"100\" viewBox=\"0 0 100 15\" style=\"fill-opacity:1; color-rendering:auto; color-interpolation:auto; text-rendering:auto; stroke:black; stroke-linecap:square; stroke-miterlimit:10; shape-rendering:auto; stroke-opacity:1; fill:black; stroke-dasharray:none; font-weight:normal; stroke-width:1; font-family:'Open Sans'; font-style:normal; stroke-linejoin:miter; font-size:12; stroke-dashoffset:0; image-rendering:auto;\" height=\"15\" class=\"cas-substance-image\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><svg class=\"cas-substance-single-component\"><rect y=\"0\" x=\"0\" width=\"100\" stroke=\"none\" ry=\"7\" rx=\"7\" height=\"15\" fill=\"white\" class=\"cas-substance-group\"/><svg y=\"0\" x=\"39\" width=\"22\" viewBox=\"0 0 22 15\" style=\"fill:black;\" height=\"15\" class=\"cas-substance-single-component-image\"><svg><g><g transform=\"translate(6,8)\" style=\"fill:rgb(0,138,0); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Open Sans'; stroke:rgb(0,138,0); color-interpolation:linearRGB;\"><path style=\"stroke:none;\" d=\"M3.2578 4.1562 L2.2578 4.1562 L2.2578 0.125 L-2.2578 0.125 L-2.2578 4.1562 L-3.2578 4.1562 L-3.2578 -4.4062 L-2.2578 -4.4062 L-2.2578 -0.7656 L2.2578 -0.7656 L2.2578 -4.4062 L3.2578 -4.4062 L3.2578 4.1562 Z\"/><path style=\"stroke:none;\" d=\"M8.3672 -3.6406 Q6.9609 -3.6406 6.1406 -2.7031 Q5.3203 -1.7656 5.3203 -0.125 Q5.3203 1.5469 6.1094 2.4688 Q6.8984 3.3906 8.3516 3.3906 Q9.2578 3.3906 10.3984 3.0625 L10.3984 3.9375 Q9.5078 4.2812 8.2109 4.2812 Q6.3203 4.2812 5.2891 3.125 Q4.2578 1.9688 4.2578 -0.1406 Q4.2578 -1.4688 4.75 -2.4609 Q5.2422 -3.4531 6.1797 -3.9922 Q7.1172 -4.5312 8.3828 -4.5312 Q9.7266 -4.5312 10.7422 -4.0469 L10.3203 -3.1875 Q9.3359 -3.6406 8.3672 -3.6406 ZM13.0938 4.1562 L12.125 4.1562 L12.125 -4.9688 L13.0938 -4.9688 L13.0938 4.1562 Z\"/></g></g></svg></svg></svg></svg>"
+    ],
+    "inchi": "InChI=1S/ClH/h1H",
+    "inchiKey": "InChIKey=VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+    "smile": "Cl",
+    "canonicalSmile": "Cl",
+    "molecularFormula": "ClH",
+    "molecularMass": "36.46",
+    "experimentalProperties": [
+        {
+            "name": "Boiling Point",
+            "property": "-85 \u00b0C",
+            "sourceNumber": 1
+        },
+        {
+            "name": "Melting Point",
+            "property": "-114 \u00b0C",
+            "sourceNumber": 1
+        },
+        {
+            "name": "Density",
+            "property": "34 mol/L @ Temp: -93 \u00b0C; Press: 2.40696287 x 10\u2075 Torr",
+            "sourceNumber": 2
+        }
+    ],
+    "propertyCitations": [
+        {
+            "docUri": "",
+            "sourceNumber": 1,
+            "source": "International Chemical Safety Cards data were obtained from the National Institute for Occupational Safety and Health (US)"
+        },
+        {
+            "docUri": "document/pt/document/50904485",
+            "sourceNumber": 2,
+            "source": "Thol, Monika; Journal of Chemical & Engineering Data, (2018), 63(7), 2533-2547, CAplus"
+        }
+    ],
+    "synonyms": [
+        "Hydrochloric acid",
+        "Anhydrous hydrochloric acid",
+        "Chlorohydric acid",
+        "Dilute hydrochloric acid",
+        "Hydrogen chloride",
+        "Muriatic acid",
+        "Hydrogen chloride (HCl)",
+        "Hydrochloric acid gas",
+        "Enplate PO 236",
+        "Chloridric acid",
+        "NSC 77365",
+        "Baume HCL",
+        "ICON Etch"
+    ],
+    "replacedRns": [
+        "113962-65-5",
+        "51005-19-7",
+        "61674-62-2",
+        "218625-68-4"
+    ],
+    "hasMolfile": true
+}

@@ -1,0 +1,87 @@
+{
+    "uri": "substance/pt/58082",
+    "rn": "58-08-2",
+    "name": "Caffeine",
+    "images": [
+        "<svg width=\"152\" viewBox=\"0 0 152 115\" style=\"fill-opacity:1; color-rendering:auto; color-interpolation:auto; text-rendering:auto; stroke:black; stroke-linecap:square; stroke-miterlimit:10; shape-rendering:auto; stroke-opacity:1; fill:black; stroke-dasharray:none; font-weight:normal; stroke-width:1; font-family:'Open Sans'; font-style:normal; stroke-linejoin:miter; font-size:12; stroke-dashoffset:0; image-rendering:auto;\" height=\"115\" class=\"cas-substance-image\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\"><svg class=\"cas-substance-single-component\"><rect y=\"0\" x=\"0\" width=\"152\" stroke=\"none\" ry=\"7\" rx=\"7\" height=\"115\" fill=\"white\" class=\"cas-substance-group\"/><svg y=\"0\" x=\"0\" width=\"152\" viewBox=\"0 0 152 115\" style=\"fill:black;\" height=\"115\" class=\"cas-substance-single-component-image\"><svg><g><g transform=\"translate(78,56)\" style=\"text-rendering:geometricPrecision; color-rendering:optimizeQuality; color-interpolation:linearRGB; stroke-linecap:butt; image-rendering:optimizeQuality;\"><line y2=\"24.23\" y1=\"45.3602\" x2=\"5.1924\" x1=\"17.3909\" style=\"fill:none;\"/><line y2=\"25.98\" y1=\"47.1101\" x2=\"2.1613\" x1=\"14.3597\" style=\"fill:none;\"/><line y2=\"-1.8809\" y1=\"13.836\" x2=\"53.3628\" x1=\"70.818\" style=\"fill:none;\"/><line y2=\"-32.1183\" y1=\"-51.963\" x2=\"-29.3617\" x1=\"-40.818\" style=\"fill:none;\"/><line y2=\"31.8683\" y1=\"51.963\" x2=\"-29.2173\" x1=\"-40.818\" style=\"fill:none;\"/><line y2=\"1.75\" y1=\"1.75\" x2=\"-39.8076\" x1=\"-64.8805\" style=\"fill:none;\"/><line y2=\"-1.75\" y1=\"-1.75\" x2=\"-39.8076\" x1=\"-64.8805\" style=\"fill:none;\"/><line y2=\"-25.98\" y1=\"0\" x2=\"4.182\" x1=\"19.182\" style=\"fill:none;\"/><line y2=\"-25.9801\" y1=\"-3.5\" x2=\"8.2235\" x1=\"21.2027\" style=\"fill:none;\"/><line y2=\"25.98\" y1=\"0\" x2=\"4.182\" x1=\"19.182\" style=\"fill:none;\"/><line y2=\"-5.1088\" y1=\"0\" x2=\"43.2171\" x1=\"19.182\" style=\"fill:none;\"/><line y2=\"-25.98\" y1=\"-25.98\" x2=\"-20.4664\" x1=\"4.182\" style=\"fill:none;\"/><line y2=\"-43.0669\" y1=\"-25.98\" x2=\"19.5653\" x1=\"4.182\" style=\"fill:none;\"/><line y2=\"25.98\" y1=\"25.98\" x2=\"-20.4664\" x1=\"4.182\" style=\"fill:none;\"/><line y2=\"-36.072\" y1=\"-12.6323\" x2=\"51.66\" x1=\"49.197\" style=\"fill:none;\"/><line y2=\"0\" y1=\"-20.0917\" x2=\"-40.818\" x1=\"-29.2177\" style=\"fill:none;\"/><line y2=\"-36.072\" y1=\"-45.9699\" x2=\"51.66\" x1=\"29.4336\" style=\"fill:none;\"/><line y2=\"-33.6967\" y1=\"-42.7726\" x2=\"48.3902\" x1=\"28.0098\" style=\"fill:none;\"/><line y2=\"0\" y1=\"19.8417\" x2=\"-40.818\" x1=\"-29.362\" style=\"fill:none;\"/></g><g transform=\"translate(78,56)\" style=\"fill:rgb(230,0,0); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Open Sans'; stroke:rgb(230,0,0); color-interpolation:linearRGB;\"><path style=\"stroke:none;\" d=\"M23.1195 51.8927 Q23.1195 53.9552 22.0804 55.1349 Q21.0414 56.3146 19.1976 56.3146 Q17.307 56.3146 16.2757 55.1505 Q15.2445 53.9864 15.2445 51.8771 Q15.2445 49.7833 16.2757 48.6349 Q17.307 47.4864 19.1976 47.4864 Q21.057 47.4864 22.0882 48.6583 Q23.1195 49.8302 23.1195 51.8927 ZM16.2914 51.8927 Q16.2914 53.6271 17.0336 54.5333 Q17.7757 55.4396 19.1976 55.4396 Q20.6195 55.4396 21.3461 54.5411 Q22.0726 53.6427 22.0726 51.8927 Q22.0726 50.1583 21.3461 49.2677 Q20.6195 48.3771 19.1976 48.3771 Q17.7757 48.3771 17.0336 49.2755 Q16.2914 50.1739 16.2914 51.8927 Z\"/><path style=\"stroke:none;\" d=\"M-66.8805 -0.0703 Q-66.8805 1.9922 -67.9196 3.1719 Q-68.9586 4.3516 -70.8024 4.3516 Q-72.693 4.3516 -73.7243 3.1875 Q-74.7555 2.0234 -74.7555 -0.0859 Q-74.7555 -2.1797 -73.7243 -3.3281 Q-72.693 -4.4766 -70.8024 -4.4766 Q-68.943 -4.4766 -67.9118 -3.3047 Q-66.8805 -2.1328 -66.8805 -0.0703 ZM-73.7086 -0.0703 Q-73.7086 1.6641 -72.9664 2.5703 Q-72.2243 3.4766 -70.8024 3.4766 Q-69.3805 3.4766 -68.6539 2.5781 Q-67.9274 1.6797 -67.9274 -0.0703 Q-67.9274 -1.8047 -68.6539 -2.6953 Q-69.3805 -3.5859 -70.8024 -3.5859 Q-72.2243 -3.5859 -72.9664 -2.6875 Q-73.7086 -1.7891 -73.7086 -0.0703 Z\"/></g><g transform=\"translate(78,56)\" style=\"stroke-linecap:butt; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; font-family:'Open Sans'; color-interpolation:linearRGB; stroke-miterlimit:5;\"><path style=\"fill:none;\" d=\"M18.932 -0.433 L19.182 0 L18.932 0.433\"/><path style=\"fill:none;\" d=\"M4.432 -25.547 L4.182 -25.98 L3.682 -25.98\"/><path style=\"fill:none;\" d=\"M4.432 25.547 L4.182 25.98 L3.682 25.98\"/><path style=\"fill:rgb(0,5,255); stroke:none;\" d=\"M51.8766 -2.0807 L50.7359 -2.0807 L46.0484 -9.2682 L46.0016 -9.2682 Q46.0953 -8.0026 46.0953 -6.9557 L46.0953 -2.0807 L45.1734 -2.0807 L45.1734 -10.6432 L46.2984 -10.6432 L50.9703 -3.487 L51.0172 -3.487 Q51.0172 -3.6432 50.9703 -4.5026 Q50.9234 -5.362 50.9391 -5.737 L50.9391 -10.6432 L51.8766 -10.6432 L51.8766 -2.0807 Z\"/><path style=\"fill:rgb(0,5,255); stroke:none;\" d=\"M-22.4664 -21.8237 L-23.6071 -21.8237 L-28.2946 -29.0112 L-28.3414 -29.0112 Q-28.2477 -27.7456 -28.2477 -26.6987 L-28.2477 -21.8237 L-29.1696 -21.8237 L-29.1696 -30.3862 L-28.0446 -30.3862 L-23.3727 -23.23 L-23.3258 -23.23 Q-23.3258 -23.3862 -23.3727 -24.2456 Q-23.4196 -25.105 -23.4039 -25.48 L-23.4039 -30.3862 L-22.4664 -30.3862 L-22.4664 -21.8237 Z\"/><path style=\"fill:rgb(0,5,255); stroke:none;\" d=\"M27.6066 -44.1198 L26.4659 -44.1198 L21.7784 -51.3073 L21.7316 -51.3073 Q21.8253 -50.0416 21.8253 -48.9948 L21.8253 -44.1198 L20.9034 -44.1198 L20.9034 -52.6823 L22.0284 -52.6823 L26.7003 -45.526 L26.7472 -45.526 Q26.7472 -45.6823 26.7003 -46.5416 Q26.6534 -47.401 26.6691 -47.776 L26.6691 -52.6823 L27.6066 -52.6823 L27.6066 -44.1198 Z\"/><path style=\"fill:rgb(0,5,255); stroke:none;\" d=\"M-22.4664 30.1362 L-23.6071 30.1362 L-28.2946 22.9487 L-28.3414 22.9487 Q-28.2477 24.2144 -28.2477 25.2612 L-28.2477 30.1362 L-29.1696 30.1362 L-29.1696 21.5737 L-28.0446 21.5737 L-23.3727 28.73 L-23.3258 28.73 Q-23.3258 28.5737 -23.3727 27.7144 Q-23.4196 26.855 -23.4039 26.48 L-23.4039 21.5737 L-22.4664 21.5737 L-22.4664 30.1362 Z\"/><path style=\"fill:none;\" d=\"M51.6077 -35.5747 L51.66 -36.072 L51.2032 -36.2754\"/><path style=\"fill:none;\" d=\"M-40.568 -0.433 L-40.818 0 L-40.568 0.433\"/></g></g></svg></svg></svg></svg>"
+    ],
+    "inchi": "InChI=1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3",
+    "inchiKey": "InChIKey=RYYVLZVUVIJVGH-UHFFFAOYSA-N",
+    "smile": "O=C1C2=C(N(C)C(=O)N1C)N=CN2C",
+    "canonicalSmile": "O=C1C2=C(N=CN2C)N(C(=O)N1C)C",
+    "molecularFormula": "C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>",
+    "molecularMass": "194.19",
+    "experimentalProperties": [
+        {
+            "name": "Melting Point",
+            "property": "178 \u00b0C (sublm)",
+            "sourceNumber": 1
+        },
+        {
+            "name": "Density",
+            "property": "1.23 g/cm\u00b3 @ Temp: 18 \u00b0C",
+            "sourceNumber": 2
+        }
+    ],
+    "propertyCitations": [
+        {
+            "docUri": "",
+            "sourceNumber": 1,
+            "source": "International Chemical Safety Cards data were obtained from the National Institute for Occupational Safety and Health (US)"
+        },
+        {
+            "docUri": "",
+            "sourceNumber": 2,
+            "source": "Hazardous Substances Data Bank data were obtained from the National Library of Medicine (US)"
+        }
+    ],
+    "synonyms": [
+        "1<em>H</em>-Purine-2,6-dione, 3,7-dihydro-1,3,7-trimethyl-",
+        "Caffeine",
+        "3,7-Dihydro-1,3,7-trimethyl-1<em>H</em>-purine-2,6-dione",
+        "Guaranine",
+        "Methyltheobromine",
+        "No-Doz",
+        "Thein",
+        "Theine",
+        "1,3,7-Trimethyl-2,6-dioxopurine",
+        "1,3,7-Trimethylxanthine",
+        "Caffein",
+        "Cafipel",
+        "Alert-Pep",
+        "Koffein",
+        "Cafeina",
+        "Mateina",
+        "Refresh'n",
+        "Stim",
+        "Tri-Aqua",
+        "7-Methyltheophylline",
+        "Shape Plus",
+        "Caffedrine",
+        "Diurex",
+        "Stay Alert",
+        "Synalgos",
+        "Miudol",
+        "Wigraine",
+        "Dasin",
+        "Phensal",
+        "DHCplus",
+        "NSC 5036",
+        "Durvitan",
+        "Cafalgine",
+        "Midron extra",
+        "New Cetamol",
+        "Asia migrine",
+        "Palergot-C",
+        "Vivarin",
+        "1,3,7-Trimethyl-7<em>H</em>-purine-2,6-dione",
+        "1,3,7-Trimethyl-2,3,6,7-tetrahydro-1<em>H</em>-purine-2,6-dione",
+        "1,3,7-Trimethyl-3,7-dihydro-purine-2,6-dione",
+        "MeSH ID: D002110"
+    ],
+    "replacedRns": [
+        "95789-13-2",
+        "71701-02-5"
+    ],
+    "hasMolfile": true
+}
