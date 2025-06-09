@@ -49,10 +49,18 @@ After the Docker environment is set up, the `sparking_flow` DAG will be availabl
 
 ### The DAG will execute the following steps:
 * start task which is a dummyOperator to show that the dag has started.
+<<<<<<< HEAD
 *ingestion task which ingests JSON files and store them in a folder as raw data
+=======
+*ingestion task which injests JSON files and store them in a folder as raw data
+>>>>>>> 28e7c642e720b05bdef08d11640fd24aceafd192
 * Submit the Python Spark job to the Spark cluster which will change the datatypes.
 
 ### Note:
 You must add the spark cluster url to the spark connection in the configuration on Airflow UI
 
+<<<<<<< HEAD
 By Kundai Guzha.
+=======
+By Kundai Guzha.
+>>>>>>> 28e7c642e720b05bdef08d11640fd24aceafd192
