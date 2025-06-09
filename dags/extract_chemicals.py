@@ -29,8 +29,7 @@ dag = DAG(
     "extract_substances_dag",
     default_args=default_args,
     schedule_interval='@once',
-    catchup=False,
-    access_control={"SparkJobRole": {"can_read", "can_edit"}}
+    catchup=False
 )
 
 # Task 1: Dummy start operator
