@@ -1,6 +1,6 @@
 # SDSync ETL Datapipeline 
 
-This project includes an ETL pipeline that intergrates Apache Airflow and Apache Spark for an automated and in-memory fast processing datapipeline, The pipeline has an igestion stage that injests data in the form of JSON files, a transforming stage which transforms the data to the proper data format and a loading stage wich then stores the processed data into a Database.
+This project includes an ETL pipeline that intergrates Apache Airflow and Apache Spark for an automated and in-memory fast processing datapipeline, The pipeline has an igestion stage that ingests data in the form of JSON files, a transforming stage which transforms the data to the proper data format and a loading stage which then stores the processed data into a Database.
 
 ## Project Structure
 
