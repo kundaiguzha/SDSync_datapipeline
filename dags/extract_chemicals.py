@@ -41,18 +41,17 @@ start = EmptyOperator(
 # Task 2: Ingestion task using BashOperator
 ingestion_task = BashOperator(
     task_id="run_ingestion",
-    bash_command='python3 /opt/airflow/s3-drive/scripts/ingestion.py',
+    bash_command='python3 /opt/airflow/jobs/python/ingestion.py',
     dag=dag
 )
 
-# Task 3: Spark job using SparkSubmitOperator
-# Update SparkSubmitOperator configuration
+# Task 3: Spark job using Spar
 run_script = SparkSubmitOperator(
     task_id="run_pyspark_job",
     application="/opt/airflow/jobs/python/transform.py",  # Updated path
     conn_id="spark-conn",
     name='arrow-spark',
-    application_args=['/opt/airflow/s3-drive/bronze_data/applicants.csv'],
+    application_args=['/opt/airflow/s3-drive/silver_data/details/'],
     deploy_mode='client',
     dag=dag
 )

@@ -1,6 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.serializers import PickleSerializer, AutoBatchedSerializer
 from pyspark.sql.types import StructType, StructField, StringType, FloatType
+import pandas as pd
 import json
 import os
 import glob
@@ -69,9 +70,10 @@ if all_data:
     print("Final DataFrame Data:")
     
     # Write Paquet files to the silver folder
-    output_path = r'/opt/airflow/s3-drive/silver_data/details/'
-    df_pandas=df.to_pandas()
-    df_pandas.write.mode('overwrite').option('header',True).parquet(output_path)
+    output_path = r'/opt/airflow/s3-drive/silver_data/details/output.parquet'
+    df_pandas=df.toPandas()
+    df_pandas.to_parquet(output_path, index=False)
+    # df_pandas.write.mode('overwrite').option('header',True).parquet(output_path)
 
     df.show(truncate=False)
 else:

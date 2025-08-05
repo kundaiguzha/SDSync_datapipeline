@@ -19,8 +19,8 @@ x-airflow-common: &airflow-common
     - ./dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
     - ./s3-drive:/opt/airflow/s3-drive
-  depends_on:
-    - postgres
+  #depends_on:
+    #- postgres
   networks:
     - code_with_ku
 
@@ -39,22 +39,12 @@ services:
       - spark-master
     environment:
       SPARK_MODE: worker
-      SPARK_WORKER_CORES: 1
-      SPARK_WORKER_MEMORY: 1g
+      SPARK_WORKER_CORES: 3
+      SPARK_WORKER_MEMORY: 2g
       SPARK_MASTER_URL: spark://spark-master:7077
 
-  airflow-worker:
-    <<: *airflow-common
-    command: celery worker
-    healthcheck:
-      test: ["CMD-SHELL", "celery --app airflow.providers.celery.executors.celery_executor.app inspect ping -d \"celery@$${HOSTNAME}\""]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-      start_period: 30s
-    restart: always
-        
   postgres:
+    <<: *airflow-common
     image: postgres:14.0
     environment:
       - POSTGRES_USER=airflow
@@ -70,15 +60,11 @@ services:
       - "8080:8080"
     depends_on:
       - scheduler
-    healthcheck:
-      interval: 30s
-      timeout: 200s
-      retries: 5
-      start_period: 30s
     restart: always
+
   scheduler:
     <<: *airflow-common
-    command: bash -c "airflow db migrate && airflow users create --username admin --firstname kundai --lastname guzha --role Admin --email guzhakundai@gmail.com --password admin && airflow scheduler"
+    command: bash -c "airflow db migrate && airflow users create --username admin --firstname Kundai --lastname Guzha --role Admin --email guzhakundai@gmail.com --password admin && airflow scheduler"
 
 networks:
   code_with_ku:
